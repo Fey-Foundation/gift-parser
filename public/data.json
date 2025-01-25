@@ -1,0 +1,25 @@
+{
+    "name": "Plush Pepe #777",
+    "description": "An exclusive Plush Pepe with the appearance Pepe La Rana on a Malachite background with Chocolate icons. Gifted to ๔คภเєl on 30 November 2024.",
+    "image": "https://nft.fragment.com/gift/plushpepe-777.webp",
+    "attributes": [
+        {
+            "trait_type": "Model",
+            "value": "Pepe La Rana"
+        },
+        {
+            "trait_type": "Backdrop",
+            "value": "Malachite"
+        },
+        {
+            "trait_type": "Symbol",
+            "value": "Chocolate"
+        }
+    ],
+    "lottie": "https://nft.fragment.com/gift/plushpepe-777.lottie.json",
+    "original_details": {
+        "recipient_name": "๔คภเєl",
+        "recipient_telegram_id": 304233777,
+        "date": "2024-11-30"
+    }
+}
